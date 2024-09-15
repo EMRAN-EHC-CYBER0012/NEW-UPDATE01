@@ -1,6 +1,4 @@
-#FUCK YOU BRO
-#YOU NEED FILE🤣🤣🤣
-#YOYR FATHER EHC EMRAN
+#ফাইল নিবা চোর🤣🤣🤣
 
 import os
 import NEW
